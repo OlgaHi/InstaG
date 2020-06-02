@@ -1,2 +1,2 @@
-# Instagram
+# InstaG
 Project on React js
